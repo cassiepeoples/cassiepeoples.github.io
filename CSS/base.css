@@ -1,0 +1,14 @@
+h1 {
+    color: #000080;
+    font-size:60px;
+}
+h2 {
+    color:black;
+}
+p {
+    font-family:arial;
+}
+img{
+    border:5px solid black;
+    width:100%;
+}
