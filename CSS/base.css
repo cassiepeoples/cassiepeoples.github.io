@@ -1,14 +1,11 @@
-h1 {
-    color: #000080;
-    font-size:60px;
-}
-h2 {
-    color:black;
+h1{
+    color:pink;
+        font-size:80px
 }
 p {
-    font-family:arial;
+    font-family:sans-serif;
 }
 img{
-    border:5px solid black;
-    width:100%;
+    border:5px solid pink;
+    width:40%;
 }
