@@ -7,10 +7,18 @@
 body { 
     font-size: 14px;
     line-height:24px;
+    margin-top:0px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:0px;
+        
 }
 
 p {
-    margin-bottom: 16px;
+    margin-bottom: 20pxpx;
+    margin-top:30px;
+    margin-left:90px;
+    margin-right:90px;
 }
 
 header {
