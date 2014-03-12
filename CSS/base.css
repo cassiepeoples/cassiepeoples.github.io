@@ -19,9 +19,14 @@ header {
 
 header a {
     color: #aaaaaa;
+    text-decoration: none;
 }
 
-header a:hover {
+header a:link{}
+header a:visited {}
+header a:hoover{
     color: #ffffff;
 }
 
+header a:active {}
+header a:focus {}
