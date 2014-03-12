@@ -1,11 +1,27 @@
-h1{
-    color:pink;
-        font-size:80px
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
+
+body { 
+    font-size: 16px;
+}
+
 p {
-    font-family:sans-serif;
+    margin-bottom: 16px;
 }
-img{
-    border:30px solid pink;
-    width:40%;
+
+header {
+    background-color:#000000;
+    color:#ffffff;
 }
+
+header a {
+    color: #aaaaaa;
+}
+
+header a:hover {
+    color: #ffffff;
+}
+
