@@ -98,7 +98,12 @@ margin-left:24px;
 
 }
 footer {
-     padding: 0 10px 0 10px;
+    background-color: #000033;
+    clear: both;
+    color: #000033;
+    font-size: 10px;
+    font-family:fantasy; 
+    font: grey;
 }
 
 #content {

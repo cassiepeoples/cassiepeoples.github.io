@@ -103,7 +103,12 @@ header a:focus {}
 
 }
 footer {
-     padding: 0 10px 0 10px;
+    background-color: #FF0000;
+    clear: both;
+    color: #ffffff;
+    font-size: 10px;
+    font-family:fantasy; 
+    
 }
 
 #content {
